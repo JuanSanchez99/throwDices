@@ -1,0 +1,2 @@
+# throwDices
+Program in haskell
